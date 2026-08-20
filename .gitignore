@@ -1,0 +1,13 @@
+# Backend
+backend/target/
+backend/.idea/
+backend/*.iml
+backend/HELP.md
+backend/src/main/resources/application-local.properties
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# General
+.DS_Store
